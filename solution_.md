@@ -1,6 +1,6 @@
 # Seminar CLS L2: Tools for Computational Scientists
 
-Author: Warwick Louw (12594970)
+Author: Warwick Louw
 
 ## Pivotal Papers
 Some pivotal papers include:
